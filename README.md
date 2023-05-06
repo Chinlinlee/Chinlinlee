@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinlinlee&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
 ![Chinlinlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinlinlee&show_icons=true&line_height=40)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chinlinlee&theme=dark&card_width=750)](https://git.io/streak-stats)
 # Projects with medical field
 The projects about DICOM and FHIR.
 
