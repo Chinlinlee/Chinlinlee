@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Chin lin lee.
+My name is Chin-Lin, Lee.
 
 I'm master’s student and major in BME(Biomedical Engineering) at NYCU(National Yang Ming Chiao Tung University, Yang Ming Campus).
 <!--
