@@ -47,6 +47,7 @@ The projects about DICOM and FHIR.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=burni)](https://github.com/Chinlinlee/Burni)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=hapi-sync-mediator-ts)](https://github.com/Chinlinlee/hapi-sync-mediator-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cylab-tw&repo=raccoon)](https://github.com/cylab-tw/raccoon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinlinlee&repo=raccoon-dicom)](https://github.com/Chinlinlee/raccoon-dicom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=dicom-to-json)](https://github.com/Chinlinlee/dicom-to-json)
 
 # Projects that facilitate my school life
