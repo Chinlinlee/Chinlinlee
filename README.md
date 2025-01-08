@@ -1,7 +1,10 @@
 # Hi there 👋
 My name is Chin-Lin, Lee.
 
-I'm master’s student and major in BME(Biomedical Engineering) at NYCU(National Yang Ming Chiao Tung University, Yang Ming Campus).
+I am a master’s graduate in Biomedical Engineering (BME) from National Yang Ming Chiao Tung University (NYCU), Yang Ming Campus.
+My primary focus is on developing projects related to medical standards, including DICOM and FHIR.
+
+Coding for fun ^^
 <!--
 **Chinlinlee/Chinlinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
