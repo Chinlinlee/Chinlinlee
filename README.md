@@ -1,8 +1,6 @@
-# Hi there 👋
-My name is Chin-Lin, Lee.
+# 👋 Hi, I'm Chin-Lin, Lee
 
-I am a master’s graduate in Biomedical Engineering (BME) from National Yang Ming Chiao Tung University (NYCU), Yang Ming Campus.
-My primary focus is on developing projects related to medical standards, including DICOM and FHIR.
+A master's graduate in **Biomedical Engineering** from National Yang Ming Chiao Tung University (NYCU), specializing in projects related to medical standards like **DICOM** and **FHIR**. I'm passionate about developing innovative solutions that bridge the gap between healthcare and technology.
 
 Coding for fun ^^
 <!--
