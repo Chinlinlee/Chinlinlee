@@ -39,18 +39,20 @@ Here are some ideas to get you started:
 
 # Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinlinlee&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
-![Chinlinlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinlinlee&show_icons=true&line_height=40)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chinlinlee&theme=dark&card_width=750)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-eta-rosy-40.vercel.app/api/top-langs/?username=chinlinlee&hide=c,c%2B%2B,cmake)](https://github.com/anuraghazra/github-readme-stats)
+![Chinlinlee's GitHub stats](https://github-readme-stats-eta-rosy-40.vercel.app/api?username=Chinlinlee&show_icons=true&line_height=40)
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chinlinlee&theme=dark&card_width=750)](https://git.io/streak-stats)
+-->
 # Projects with medical field
 The projects about DICOM and FHIR.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=burni)](https://github.com/Chinlinlee/Burni)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=hapi-sync-mediator-ts)](https://github.com/Chinlinlee/hapi-sync-mediator-ts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cylab-tw&repo=raccoon)](https://github.com/cylab-tw/raccoon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chinlinlee&repo=raccoon-dicom)](https://github.com/Chinlinlee/raccoon-dicom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=dicom-to-json)](https://github.com/Chinlinlee/dicom-to-json)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=chinlinlee&repo=burni)](https://github.com/Chinlinlee/Burni)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=chinlinlee&repo=hapi-sync-mediator-ts)](https://github.com/Chinlinlee/hapi-sync-mediator-ts)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=cylab-tw&repo=raccoon)](https://github.com/cylab-tw/raccoon)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=Chinlinlee&repo=raccoon-dicom)](https://github.com/Chinlinlee/raccoon-dicom)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=chinlinlee&repo=dicom-to-json)](https://github.com/Chinlinlee/dicom-to-json)
 
 # Projects that facilitate my school life
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=NTUNHS-Assistant)](https://github.com/Chinlinlee/NTUNHS-Assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinlinlee&repo=nycu-ymbme-pastexam)](https://github.com/Chinlinlee/nycu-ymbme-pastexam)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=chinlinlee&repo=NTUNHS-Assistant)](https://github.com/Chinlinlee/NTUNHS-Assistant)
+[![Readme Card](https://github-readme-stats-eta-rosy-40.vercel.app/api/pin/?username=chinlinlee&repo=nycu-ymbme-pastexam)](https://github.com/Chinlinlee/nycu-ymbme-pastexam)
