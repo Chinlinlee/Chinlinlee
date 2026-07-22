@@ -3,6 +3,8 @@
 A master's graduate in **Biomedical Engineering** from National Yang Ming Chiao Tung University (NYCU), specializing in projects related to medical standards like **DICOM** and **FHIR**. I'm passionate about developing innovative solutions that bridge the gap between healthcare and technology.
 
 Coding for fun ^^
+
+🔗 **Personal Links** — [李沁霖 / chinlinlee](https://link-in-bio.chin0.workers.dev/)
 <!--
 **Chinlinlee/Chinlinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
